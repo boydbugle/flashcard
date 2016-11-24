@@ -1,3 +1,15 @@
+body {
+    color: red;
+}
+
+.white-background {
+    background-color: white;
+}
+
+.black-background {
+    background-color: black;
+}
+
 .bottom {
     display: none;
 }
@@ -7,16 +19,6 @@ h1 {
     color: #0088cc;
 }
 
-h1:hover{
+h1:hover {
     text-decoration: underline;
-}
-
-.white-background {
-    background-color:white; 
-
-}
-
-.black-background {
-    background-color:black; 
-
 }
