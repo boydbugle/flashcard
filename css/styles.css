@@ -1,6 +1,22 @@
-.jv p{
+.bottom {
     display: none;
 }
-.op p{
-    display: none;
+
+h1 {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+h1:hover{
+    text-decoration: underline;
+}
+
+.white-background {
+    background-color:white; 
+
+}
+
+.black-background {
+    background-color:black; 
+
 }
